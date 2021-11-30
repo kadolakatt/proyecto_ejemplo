@@ -1,6 +1,7 @@
 # Proyecto de Ejemplo Ciclo 4a MisionTIC 2022
 
 ######Requerimientos
+
 Se requiere un sistema multiusuario con dos perfiles: director del proyecto y desarrollador. El director de proyecto crea los proyectos y las tareas que pertenecen asociadas él. Dentro del sistema el proyecto admite nombre (texto), fecha de inicio (texto), completado (boolean) y cliente (texto) al que pertenece, los proyectos solo pueden ser registrados, anulados o marcados como completados por los usuarios con rol director de proyecto. Las tareas que se registran en el sistema admiten la siguiente información: nombre y/o descripción, usuario desarrollador responsable, y fecha de vencimiento de la tarea.
 El sistema debe contar con un proceso de inicio de sesión en donde se autentiquen usuarios y de acuerdo con rol del usuario se habiliten o deshabiliten las opciones permitidas.
 
