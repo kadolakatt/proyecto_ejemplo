@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend Proyecto de Ejemplo MisionTIC 2022",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadolakatt/proyecto_ejemplo.git"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "misiontic",
+    "2022",
+    "ciclo4a",
+    "4a"
+  ],
+  "author": "Kadel D. Lacatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadolakatt/proyecto_ejemplo/issues"
+  },
+  "homepage": "https://github.com/kadolakatt/proyecto_ejemplo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
