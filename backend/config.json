@@ -1,0 +1,4 @@
+{
+    "PORT": 9000,
+    "CONNECTION_URL":"mongodb+srv://kado:aEdkDEGwzNDXJG7@misiontic2k22.vbkfz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" 
+}
